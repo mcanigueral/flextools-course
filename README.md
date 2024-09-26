@@ -15,6 +15,7 @@ And import them:
 ```
 library(flextools)
 library(evsim)
+library(dutils)
 ```
 
 The `flextools` packages provides the framework to simulate smart charging of a charging sessions data set, through `smart_charging()` function. The smart charging concept is widely used in different fields and applications. In `flextools` package, we define *smart charging* as a tool to coordinate individual EV charging sessions in order to obtain the optimal aggregated demand profile according to a certain objective. 
